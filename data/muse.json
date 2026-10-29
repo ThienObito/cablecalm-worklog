@@ -231,14 +231,31 @@
       ],
       "status": "done",
       "pending": [
-        "Legal notice ghi 'CableCalm (My Store)' — '(My Store)' là placeholder, cần sửa trong Settings > Policies.",
         "Địa chỉ Legal notice ở TP.HCM (VN) trong khi bán bằng GBP + 'Free UK delivery' — cần Tobi xác nhận địa chỉ kinh doanh.",
         "Email Contact (cablecalm.info@gmail.com) khác email shop settings (truongquangthien.info@gmail.com) — cần chọn email chính thức.",
-        "3 bài blog chưa có ảnh đại diện — cần Tobi cung cấp ảnh.",
-        "Tên blog 'News' vs menu 'Blog' chưa nhất quán — cần Tobi chọn tên."
+        "3 bài blog chưa có ảnh đại diện — cần Tobi cung cấp ảnh."
+      ]
+    },
+    {
+      "id": "muse-20261029-16",
+      "date": "2026-10-29",
+      "time": "23:21",
+      "title": "Xóa placeholder Legal notice + đổi tên blog",
+      "category": "website",
+      "summary": "Xóa '(My Store)' trong Legal notice và đổi tiêu đề blog 'News' → 'Blog' (giữ URL), đã kiểm tra trên storefront.",
+      "details": [
+        "Settings → Policies → Legal notice: 'Business name: CableCalm (My Store)' → 'Business name: CableCalm'. Đã Save.",
+        "Blog 'News' đổi Title → 'Blog', giữ handle 'news' (URL /blogs/news không đổi).",
+        "Kiểm tra storefront: cả 2 trang hiển thị đúng."
+      ],
+      "status": "done",
+      "pending": [
+        "Địa chỉ kinh doanh (VN hay UK) — chờ Tobi xác nhận.",
+        "Email chính thức (cablecalm.info@gmail.com hay truongquangthien.info@gmail.com) — chờ Tobi chọn.",
+        "Ảnh đại diện 3 bài blog — chờ Tobi cung cấp."
       ]
     }
   ],
   "name": "Muse",
-  "updated": "2026-10-29T23:12:00+07:00"
+  "updated": "2026-10-29T23:21:00+07:00"
 }
