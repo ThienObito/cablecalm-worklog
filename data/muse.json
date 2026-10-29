@@ -215,8 +215,30 @@
         "Kiểm tra storefront https://98z1hp-mm.myshopify.com/password: tiêu đề tab hiện đúng 'CableCalm'."
       ],
       "status": "done"
+    },
+    {
+      "id": "muse-20261029-15",
+      "date": "2026-10-29",
+      "time": "23:12",
+      "title": "Rà soát hoàn hảo lần cuối toàn shop",
+      "category": "website",
+      "summary": "Kiểm tra toàn bộ trang password, homepage, sản phẩm, menu, blog, policy, Contact: không còn lỗi chính tả/placeholder/404. Sửa excerpt 3 bài blog, xác minh footer links.",
+      "details": [
+        "Đã sửa: excerpt 3 bài blog bị thiếu dấu cách sau dấu chấm trên /blogs/news — thêm excerpt thủ công, kiểm tra storefront hiển thị đẹp.",
+        "Đã xác minh: toàn bộ footer Quick links + popover Terms and Policies đều hoạt động, không 404.",
+        "Đã xác minh: 'Powered by Shopify' đã xóa (footer chỉ còn '© 2026 CableCalm'); alt text 4 ảnh sản phẩm đúng.",
+        "Giá £19.99 và nội dung policy không bị thay đổi."
+      ],
+      "status": "done",
+      "pending": [
+        "Legal notice ghi 'CableCalm (My Store)' — '(My Store)' là placeholder, cần sửa trong Settings > Policies.",
+        "Địa chỉ Legal notice ở TP.HCM (VN) trong khi bán bằng GBP + 'Free UK delivery' — cần Tobi xác nhận địa chỉ kinh doanh.",
+        "Email Contact (cablecalm.info@gmail.com) khác email shop settings (truongquangthien.info@gmail.com) — cần chọn email chính thức.",
+        "3 bài blog chưa có ảnh đại diện — cần Tobi cung cấp ảnh.",
+        "Tên blog 'News' vs menu 'Blog' chưa nhất quán — cần Tobi chọn tên."
+      ]
     }
   ],
   "name": "Muse",
-  "updated": "2026-10-29T22:20:00+07:00"
+  "updated": "2026-10-29T23:12:00+07:00"
 }
