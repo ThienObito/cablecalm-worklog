@@ -201,11 +201,22 @@
         "Preview bản duplicate: tiêu đề tab trang password hiện 'CableCalm' gọn gàng."
       ],
       "status": "done",
-      "pending": [
-        "Chờ Tobi duyệt để Publish theme 'Copy of Horizon' cho tiêu đề mới lên live."
-      ]
+      "pending": []
+    },
+    {
+      "id": "muse-20261029-14",
+      "date": "2026-10-29",
+      "time": "22:20",
+      "title": "Publish theme Copy of Horizon lên live",
+      "category": "website",
+      "summary": "Tobi duyệt publish; theme 'Copy of Horizon' đã lên live, tiêu đề tab trang password hiện 'CableCalm' trên storefront thật.",
+      "details": [
+        "Admin báo 'Theme published'; theme live hiện tại là 'Copy of Horizon', theme Horizon gốc chuyển xuống Draft.",
+        "Kiểm tra storefront https://98z1hp-mm.myshopify.com/password: tiêu đề tab hiện đúng 'CableCalm'."
+      ],
+      "status": "done"
     }
   ],
   "name": "Muse",
-  "updated": "2026-10-29T22:01:00+07:00"
+  "updated": "2026-10-29T22:20:00+07:00"
 }
