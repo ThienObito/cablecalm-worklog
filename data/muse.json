@@ -249,13 +249,23 @@
         "Kiểm tra storefront: cả 2 trang hiển thị đúng."
       ],
       "status": "done",
-      "pending": [
-        "Địa chỉ kinh doanh (VN hay UK) — chờ Tobi xác nhận.",
-        "Email chính thức (cablecalm.info@gmail.com hay truongquangthien.info@gmail.com) — chờ Tobi chọn.",
-        "Ảnh đại diện 3 bài blog — chờ Tobi cung cấp."
-      ]
+      "pending": []
+    },
+    {
+      "id": "muse-20261029-17",
+      "date": "2026-10-29",
+      "time": "23:41",
+      "title": "Chốt địa chỉ, email, ảnh blog (dropshipping)",
+      "category": "website",
+      "summary": "Tobi xác nhận mô hình dropshipping và ủy quyền tự quyết: giữ địa chỉ VN, email cablecalm.info@gmail.com, gán ảnh đại diện cho 3 bài blog.",
+      "details": [
+        "Legal notice: xác nhận địa chỉ '48 Dương Đình Hội, Phước Long B, Quận 9, Hồ Chí Minh, Việt Nam' (Published).",
+        "Thống nhất email cablecalm.info@gmail.com trên mọi trang customer-facing; đổi Store email trong Settings → General để policy tự động (Privacy, Terms) hiển thị đúng; email Notifications giữ nguyên.",
+        "Gán featured image từ Files cho 3 bài blog (cable clip, cable sleeve, TV stand), không còn placeholder."
+      ],
+      "status": "done"
     }
   ],
   "name": "Muse",
-  "updated": "2026-10-29T23:21:00+07:00"
+  "updated": "2026-10-29T23:41:00+07:00"
 }
