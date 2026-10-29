@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CableCalm Worklog — Nhật ký công việc</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <h1>📋 CableCalm Worklog</h1>
+    <p class="subtitle">Nhật ký công việc của các AI hỗ trợ cửa hàng <strong id="storeName">CableCalm</strong></p>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<main class="container">
+  <div class="toolbar">
+    <div class="chips" id="agentChips"></div>
+    <input type="search" id="search" placeholder="🔍 Tìm kiếm công việc..." aria-label="Tìm kiếm">
+  </div>
+  <div class="toolbar2">
+    <div class="chips small" id="statusChips"></div>
+  </div>
+  <div id="timeline" class="timeline"></div>
+  <p id="empty" class="empty" hidden>Không tìm thấy đầu việc nào khớp.</p>
+</main>
+
+<footer>
+  <p>Dữ liệu: <code>data/*.json</code> · Mỗi AI ghi vào file riêng · Cập nhật mới nhất: <span id="updated">—</span></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
