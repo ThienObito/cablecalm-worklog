@@ -264,8 +264,23 @@
         "Gán featured image từ Files cho 3 bài blog (cable clip, cable sleeve, TV stand), không còn placeholder."
       ],
       "status": "done"
+    },
+    {
+      "id": "muse-20261029-18",
+      "date": "2026-10-29",
+      "time": "23:54",
+      "title": "Thay section 'How each piece works' bằng 'Tidy your desk in 3 steps'",
+      "category": "website",
+      "summary": "Xóa hẳn section video cũ, thay bằng section 3 bước gọn gàng dùng ảnh từ Files của shop.",
+      "details": [
+        "Xóa section 'How each piece works' (4 video + thumbnail) khỏi homepage.",
+        "Thêm section Multicolumn 'Tidy your desk in 3 steps' đúng vị trí cũ: 1. Sort / 2. Route / 3. Hide, mỗi bước 1 ảnh từ Files + mô tả ngắn tiếng Anh.",
+        "Không làm 'What's in the box' vì mô tả sản phẩm không liệt kê số lượng từng món (chỉ 4 loại, không bịa số liệu).",
+        "Đã Save theme và kiểm tra homepage hiển thị đúng 3 cột, ảnh load được."
+      ],
+      "status": "done"
     }
   ],
   "name": "Muse",
-  "updated": "2026-10-29T23:41:00+07:00"
+  "updated": "2026-10-29T23:54:00+07:00"
 }
