@@ -355,8 +355,26 @@
       "pending": [
         "Ảnh social sharing — chờ Tobi làm tay 30 giây."
       ]
+    },
+    {
+      "id": "muse-20261030-23",
+      "date": "2026-10-30",
+      "time": "09:19",
+      "title": "2 việc còn lại: không làm được, cần Tobi",
+      "category": "website",
+      "summary": "Ảnh social sharing: hộp thoại chọn ảnh không mở được trong trình duyệt tự động (thử 2 lần). Tác giả blog: shop đã hết giới hạn user + xác minh Google của Shopify lỗi trong trình duyệt tự động.",
+      "details": [
+        "Ảnh social sharing: đã thử bấm trực tiếp, Enter, Space, chờ — hộp thoại 'Select image' không mở. Cần Tobi làm tay 30 giây (Online Store → Preferences).",
+        "Tác giả blog: Settings → Users báo 'You've reached your user limit' — chỉ có 1 user (owner), muốn thêm phải nâng cấp gói. Ngoài ra Shopify đòi xác minh Google khi tạo role mà trang xác minh lỗi liên tục.",
+        "Không có thay đổi nào được lưu: không tạo role, không gửi invite. 3 bài blog giữ tác giả cũ.",
+        "Nhận định: theme không hiển thị tên tác giả cho khách nên việc đổi tác giả gần như vô hình — không đáng nâng cấp gói chỉ vì việc này."
+      ],
+      "status": "done",
+      "pending": [
+        "Ảnh social sharing — chờ Tobi làm tay."
+      ]
     }
   ],
   "name": "Muse",
-  "updated": "2026-10-30T09:11:00+07:00"
+  "updated": "2026-10-30T09:19:00+07:00"
 }
