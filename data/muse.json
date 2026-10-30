@@ -373,8 +373,23 @@
       "pending": [
         "Ảnh social sharing — chờ Tobi làm tay."
       ]
+    },
+    {
+      "id": "muse-20261030-24",
+      "date": "2026-10-30",
+      "time": "10:40",
+      "title": "Nghiên cứu sâu đợt 2: VAT UK, cổng thanh toán VN, TikTok organic",
+      "category": "strategy",
+      "summary": "Theo yêu cầu 'nghiên cứu tiếp' của Tobi: 3 báo cáo chuyên sâu (VAT UK chi tiết, so sánh cổng thanh toán cho merchant VN, playbook TikTok organic + lịch 4 tuần).",
+      "details": [
+        "05-vat-uk-chi-tiet.md: seller ngoài UK phải đăng ký VAT từ đơn đầu tiên (ngưỡng £0); đơn £19.99 → £3.33 VAT ròng/đơn không khấu trừ; đăng ký tự làm miễn phí qua gov.uk hoặc thuê agent £36–130; xử lý 4–8 tuần; phạt tới 100% + lãi nếu không đăng ký.",
+        "06-cong-thanh-toan-vn.md: #1 là 2Checkout (Verifone) 3.5%+$0.35 (~£0.97/đơn), app Shopify chính thức; ONERWAY dự phòng; loại UseePay (review 1 sao), Cybersource (enterprise), VNPAY (không hợp khách UK). Cộng 2% phí third-party của Shopify → tổng ~7–8%/đơn, vẫn trong margin.",
+        "07-tiktok-organic-playbook.md: format Before/After + ASMR hiệu quả nhất; 5 công thức hook 3 giây; giờ đăng tốt nhất thứ Năm đầu giờ chiều UK; TikTok Shop UK chỉ cần 500 follow; lịch 4 tuần × 4 video + checklist 11 việc tuần đầu.",
+        "Cả 3 file tách rõ 'đã xác minh' vs 'ước tính', có checklist hành động cuối file."
+      ],
+      "status": "done"
     }
   ],
   "name": "Muse",
-  "updated": "2026-10-30T09:19:00+07:00"
+  "updated": "2026-10-30T10:40:00+07:00"
 }
