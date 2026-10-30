@@ -279,8 +279,65 @@
         "Đã Save theme và kiểm tra homepage hiển thị đúng 3 cột, ảnh load được."
       ],
       "status": "done"
+    },
+    {
+      "id": "muse-20261030-19",
+      "date": "2026-10-30",
+      "time": "00:01",
+      "title": "Dọn sạch video còn sót trên homepage",
+      "category": "website",
+      "summary": "Tobi báo vẫn thấy video; kiểm tra toàn bộ 12 section, phát hiện section 'See it in use' còn video mp4 và đã xóa hẳn section.",
+      "details": [
+        "Rà soát toàn bộ 12 section homepage: chỉ còn 1 section chứa video là 'See it in use' (file mp4 + thumbnail Play).",
+        "Xóa hẳn cả section (bỏ video xong section không còn ý nghĩa). Đã Save.",
+        "Kiểm tra storefront từ đầu đến cuối: không còn video/thumbnail/nút Play nào. File video trong Files giữ nguyên.",
+        "Ghi chú: entry này mới chỉ lưu local, sẽ push lên GitHub vào sáng mai khi Tobi dậy (tránh approval lúc nửa đêm)."
+      ],
+      "status": "done"
+    },
+    {
+      "category": "strategy",
+      "date": "2026-10-30",
+      "details": [
+        "Deliverable: BAO-CAO-CHIEN-LUOC.md (~24KB) + 4 file chi tiết trong research/ (01-thi-truong-khach-hang, 02-doi-thu, 03-seo-content, 04-chi-phi-tang-truong). Tất cả tiếng Việt, tại ~/workspace/cablecalm-strategy/.",
+        "Thị trường: niche tăng 6–8%/năm; 42% lao động UK làm từ nhà; bằng chứng demand: D-Line Cable Tidy Box £9.99 đạt ~39.000 review trên Amazon UK.",
+        "Đối thủ: mọi kit nhiều món trên Amazon UK đều là seller vô danh — không có brand D2C nào ở phân khúc kit có thương hiệu. Khoảng trống giá £18–25 (giữa kit generic £10–16 và UGREEN/Bluelounge £30–47); £19.99 của CableCalm nằm đúng chỗ nhưng phải thắng bằng brand + content, không đấu giá.",
+        "Pain point #1 từ review thật: keo dán yếu/rơi (đặc biệt standing desk); kit đối thủ thiếu hướng dẫn và thiếu under-desk tray.",
+        "Tài chính (ước tính, kèm nguồn): margin ròng ~£7/đơn (~35–38%) ở giá £19.99 sau VAT 20% (£3.33/đơn), COGS ~£3.94, ship UK ~£3.75, PayPal ~£0.88, Shopify 2%. CPA hòa vốn ≈ £7 → chạy Meta ads cho đơn lẻ gần như chắc lỗ.",
+        "VAT UK: seller ngoài UK bán direct từ website cho khách UK (đơn ≤£135) bắt buộc đăng ký VAT UK — nghĩa vụ pháp lý, cần kế toán trước ngày mở bán.",
+        "Thứ tự ưu tiên đã chứng minh bằng số liệu: email list (CAC ~£0) → organic TikTok/Reels → bundle '2 kit £34.99' (nâng CPA hòa vốn lên ~£17) → affiliate micro-creator → eBay UK → Amazon UK → B2B.",
+        "SEO UK: chính tả 'organiser', né từ khóa 'cable tidy box' của D-Line, đánh vào 'kit'; 14 chủ đề blog (2 bài/tháng); password page đang chặn toàn bộ index — gỡ khi launch.",
+        "Mục tiêu đề xuất: 100 đơn/30 ngày đầu (CPA ≤£7), 500 đơn/tháng cuối tháng 3, AOV ≥£25, 50+ review thật.",
+        "7 câu hỏi cần Tobi quyết sáng nay: VAT UK (thuê kế toán?), market tài khoản PayPal (UK hay VN?), ngân sách 90 ngày, cam kết 3–5 video/tuần, SKU thứ 2, domain riêng, kho UK khi ≥300 đơn/tháng.",
+        "Ghi chú: entry này + entry 19 (dọn video homepage) sẽ push lên GitHub worklog vào sáng 30/10 khi Tobi dậy, gom chung 1 lần duyệt theo yêu cầu của Tobi. Trong đêm KHÔNG push, KHÔNG hỏi phê duyệt."
+      ],
+      "id": "muse-20261030-20",
+      "status": "done",
+      "summary": "Hoàn tất nghiên cứu chi tiết theo yêu cầu qua đêm của Tobi (17:00 UTC 29/10): 4 báo cáo chuyên sâu + 1 báo cáo tổng hợp tiếng Việt. Phát hiện then chốt: margin ròng ~£7/đơn → CPA hòa vốn £7, không chạy ads khi chưa có bundle; VAT UK là nghĩa vụ pháp lý trước khi mở bán; khoảng trống 'premium affordable' £18–25 đang bỏ ngỏ. Kèm mục tiêu đo được + kế hoạch 3 giai đoạn + 7 câu hỏi cần Tobi quyết.",
+      "time": "06:56",
+      "title": "Nghiên cứu chiến lược 6 giờ: thị trường, đối thủ, SEO, chi phí + kế hoạch kiếm tiền"
+    },
+    {
+      "id": "muse-20261030-21",
+      "date": "2026-10-30",
+      "time": "08:35",
+      "title": "Rà soát web buổi sáng: fix FAQ, kiểm tra mobile/SEO",
+      "category": "website",
+      "summary": "Audit lại toàn bộ web với con mắt mới: fix 1 lỗi FAQ (link footer ghi 'Refund' nhưng FAQ ghi 'Returns'), còn lại sạch (mobile, SEO, announcement bar, Judge.me đều ổn).",
+      "details": [
+        "Đã fix: FAQ 'What is the returns period?' ghi nhầm 'See Returns in the footer' → sửa thành 'See the Refund policy in the footer'. Đã Save + kiểm tra storefront.",
+        "Đã kiểm tra OK: mobile view (chữ/ảnh/nút đều gọn), SEO title + meta description (homepage, product, 3 blog), Judge.me hiện đúng 'Be the first to write a review', video trang sản phẩm chạy tốt, announcement bar 3 thông điệp nhất quán.",
+        "Chưa fix được: ảnh social sharing (og:image) trong Online Store → Preferences còn trống — hộp thoại upload không mở được trong trình duyệt tự động, cần Tobi làm tay (30 giây)."
+      ],
+      "status": "done",
+      "pending": [
+        "Trùng lặp: 'How it works' (5 bước chữ) vs 'Tidy your desk in 3 steps' (3 card ảnh) — chờ Tobi quyết ẩn/gộp/xóa.",
+        "Shipping policy ghi 'UK only' nhưng shipping zones còn Vietnam — cần rà soát.",
+        "Giờ làm việc Contact đang GMT+7, shop nhắm khách UK — cần quyết.",
+        "Tác giả blog đang tên cá nhân — có thể đổi thành 'CableCalm'."
+      ]
     }
   ],
   "name": "Muse",
-  "updated": "2026-10-29T23:54:00+07:00"
+  "updated": "2026-10-30T08:35:00+07:00"
 }
