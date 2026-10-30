@@ -336,8 +336,27 @@
         "Giờ làm việc Contact đang GMT+7, shop nhắm khách UK — cần quyết.",
         "Tác giả blog đang tên cá nhân — có thể đổi thành 'CableCalm'."
       ]
+    },
+    {
+      "id": "muse-20261030-22",
+      "date": "2026-10-30",
+      "time": "09:11",
+      "title": "Hoàn tất 5 việc Tobi duyệt: ẩn section trùng, tắt ship VN, giờ UK",
+      "category": "website",
+      "summary": "Xong 3/5: ẩn section 'How it works' bị trùng, xóa shipping zone Vietnam (chỉ còn UK), đổi giờ Contact sang UK. 2 việc không làm được: ảnh social sharing, tác giả blog.",
+      "details": [
+        "Đã ẩn section 'How it works' (5 bước chữ) bị trùng với 'Tidy your desk in 3 steps' — ẩn chứ không xóa, khôi phục được.",
+        "Đã xóa market/shipping zone Vietnam (2 rate Tiêu chuẩn/Nhanh); chỉ còn United Kingdom (Free shipping).",
+        "Trang Contact: 'Mon–Fri, 9:00–17:00 GMT+7' → 'Mon–Fri, 9:00–17:00 GMT (UK time)'.",
+        "KHÔNG làm được: ảnh social sharing — hộp thoại chọn ảnh không mở được trong trình duyệt tự động, cần Tobi làm tay (Online Store → Preferences).",
+        "KHÔNG làm được: tác giả blog — ô Author chỉ chọn được từ danh sách staff hiện có; theme cũng không hiển thị tên tác giả nên khách không thấy."
+      ],
+      "status": "done",
+      "pending": [
+        "Ảnh social sharing — chờ Tobi làm tay 30 giây."
+      ]
     }
   ],
   "name": "Muse",
-  "updated": "2026-10-30T08:35:00+07:00"
+  "updated": "2026-10-30T09:11:00+07:00"
 }
